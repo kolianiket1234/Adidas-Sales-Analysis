@@ -1,4 +1,4 @@
-# Adidas-Sales-Analysis
+# Adidas-Sales-Analysis Using MS Excel
 ## ✅ Project Overview:
 The Adidas Sales Analysis project focuses on analyzing historical sales data of Adidas products to uncover performance trends, identify top-selling items, and provide actionable insights to stakeholders. The entire analysis is done using Microsoft Excel, making use of its data cleaning, transformation, and visualization features.
 
