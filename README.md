@@ -1,114 +1,110 @@
 # Adidas-Sales-Analysis
-✅ Project Overview:
+## ✅ Project Overview:
 The Adidas Sales Analysis project focuses on analyzing historical sales data of Adidas products to uncover performance trends, identify top-selling items, and provide actionable insights to stakeholders. The entire analysis is done using Microsoft Excel, making use of its data cleaning, transformation, and visualization features.
 
-🧾 Dataset Description:
-Source: Open-source dataset (e.g., Kaggle or company-provided)
+## 🧾 Dataset Description:
+### Source: Open-source dataset (e.g., Kaggle or company-provided)
 
-Format: .csv or .xlsx
+## Columns typically include:
 
-Columns typically include:
+- Retailer
 
-Retailer
+- Region
 
-Region
+- Country
 
-Country
+- Product
 
-Product
+- Retail Price
 
-Retail Price
+- Units Sold
 
-Units Sold
+- Total Sales
 
-Total Sales
+- Operating Profit
 
-Operating Profit
+- Operating Margin
 
-Operating Margin
+- Date
 
-Date
 
-⚙️ Tools & Functions Used:
-💻 Microsoft Excel Features:
-Pivot Tables & Pivot Charts
+## 💻 Microsoft Excel Features:
 
-Slicers and Timelines
+- Pivot Tables & Pivot Charts
 
-Conditional Formatting
+- Slicers and Timelines
 
-Formulas:
+- Conditional Formatting
 
-VLOOKUP, HLOOKUP, INDEX, MATCH
+## Formulas:
 
-IF, AND, OR, SUMIFS, COUNTIFS
+- VLOOKUP, HLOOKUP, INDEX, MATCH
 
-TEXT, LEFT, RIGHT, MID, CONCATENATE
+- IF, AND, OR, SUMIFS, COUNTIFS
 
-DATEDIF, TODAY, YEAR, MONTH
+- TEXT, LEFT, RIGHT, MID, CONCATENATE
 
-Data Validation and Drop-down Menus
+- DATEDIF, TODAY, YEAR, MONTH
 
-Dynamic Dashboards using slicers & named ranges
+- Data Validation and Drop-down Menus
 
-📈 Dashboard & Visualizations:
-Key Charts:
-Total Sales by Region
+- Dynamic Dashboards using slicers & named ranges
 
-Top 5 Best-Selling Products
+## 📈 Dashboard & Visualizations:
+- Key Charts:
+  
+- Total Sales by Region
 
-Monthly Sales Trend (Line Chart)
+- Top 5 Best-Selling Products
 
-Sales by Product Category (Bar or Pie Chart)
+- Monthly Sales Trend (Line Chart)
 
-Profitability Analysis (Heatmap or KPI cards)
+- Sales by Product Category (Bar or Pie Chart)
 
-Sales vs Units Sold comparison
+- Profitability Analysis (Heatmap or KPI cards)
 
-Filters Used:
-Region
+- Sales vs Units Sold comparison
 
-Product Category
 
-Retailer
+## 🎯 Key Insights Derived:
 
-Year/Month
+- Identified top-performing regions and countries.
 
-🎯 Key Insights Derived:
-Identified top-performing regions and countries.
+- Highlighted best-selling Adidas products.
 
-Highlighted best-selling Adidas products.
+- Found seasonality trends—e.g., peak sales in Q3.
 
-Found seasonality trends—e.g., peak sales in Q3.
+- Discovered underperforming regions or products.
 
-Discovered underperforming regions or products.
+- Tracked monthly profit margins and sales efficiency.
 
-Tracked monthly profit margins and sales efficiency.
+## 🔍 Analysis Goals:
 
-🔍 Analysis Goals:
-Help the sales team understand regional performance.
+- Help the sales team understand regional performance.
 
-Support marketing in targeting high-conversion categories.
+- Support marketing in targeting high-conversion categories.
 
-Recommend inventory restocking priorities.
+- Recommend inventory restocking priorities.
 
 Track KPIs for executive reporting.
 
-📌 Project Outcomes:
-Created a professional, interactive Excel dashboard.
+## 📌 Project Outcomes:
 
-Automated summary reports using pivot charts and slicers.
+- Created a professional, interactive Excel dashboard.
 
-Improved business decisions with clear, data-driven insights.
+- Automated summary reports using pivot charts and slicers.
 
-Presented the analysis to stakeholders in a visually compelling format.
+- Improved business decisions with clear, data-driven insights.
 
-🧠 Skills Demonstrated:
-Data Cleaning & Transformation
+- Presented the analysis to stakeholders in a visually compelling format.
 
-Data Visualization in Excel
+## 🧠 Skills Demonstrated:
 
-Business Intelligence Reporting
+- Data Cleaning & Transformation
+
+- Data Visualization in Excel
+
+- Business Intelligence Reporting
 
 KPI Tracking
 
