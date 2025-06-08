@@ -106,8 +106,8 @@ Track KPIs for executive reporting.
 
 - Business Intelligence Reporting
 
-KPI Tracking
+- KPI Tracking
 
-Excel Formulas and Dashboard Design
+- Excel Formulas and Dashboard Design
 
-Storytelling with Data
+- Storytelling with Data
